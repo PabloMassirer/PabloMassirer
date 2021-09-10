@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PabloMassirer
-- 👀 I’m interested in Artificial Intelligence and it's surrounding technologys
+- 👀 I’m interested in Artificial Intelligence and it's surrounding technologies
 - 🌱 I’m currently learning Git, Python
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me pablomassirer@gmail.com
