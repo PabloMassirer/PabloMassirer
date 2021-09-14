@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PabloMassirer
+- 👋 Hi, I’m @pablomassirer
 - 👀 I’m interested in Artificial Intelligence and it's surrounding technologies
 - 🌱 I’m currently learning Python, Linux 
 - 💞️ I’m looking to collaborate on development projects
