@@ -35,7 +35,13 @@ hobbies: ["Volunteer Projects", "Movies and Tv Shows", "Gaming", "MTGA"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>        
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablomassirer)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pablomassirer&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablomassirer&layout=compact&theme=dracula&langs_count=8&card_width=320" />
+</a>
 <!---
 PabloMassirer/PabloMassirer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
