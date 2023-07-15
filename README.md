@@ -27,7 +27,7 @@ currentily_learning: ["Python", "SQL", "Mathematics", "GCP"]
 hobbies: ["Volunteer Projects", "Movies and Tv Shows", "Gaming", "MTGA"] 
 ```
 
-<h2 align="center">Contact Me</h2>
+<h2 align="center">Reach Me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/pablomassirer/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/></a>    
 </p>
@@ -50,9 +50,4 @@ hobbies: ["Volunteer Projects", "Movies and Tv Shows", "Gaming", "MTGA"]
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablomassirer&layout=compact&theme=dracula&langs_count=8&card_width=320" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-PabloMassirer/PabloMassirer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Snake animation](https://github.com/pablomassirer/pablomassirer/blob/output/github-contribution-grid-snake.svg)
