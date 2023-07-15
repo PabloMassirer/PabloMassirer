@@ -1,5 +1,5 @@
 ```yaml
-name: Pablo Rodrigo Massirer
+name: Pablo Rodrigo D. Massirer
 located_in: Rio Grande do Sul, Brazil
 current_occupation: Data Science student
 education:
