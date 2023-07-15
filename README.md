@@ -26,10 +26,7 @@ currentily_learning: ["Python", "SQL", "Mathematics", "GCP"]
 2023 Goals: ["Land a Job as a Data Engineer", "Perfect my knowledge regarding DE basics (Python, SQL, GCP, Spark)"
 hobbies: ["Volunteer Projects", "Movies and Tv Shows", "Gaming", "MTGA"] 
 ```
-<h2 align="center">Contact Me</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/pablomassirer/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/></a>    
-</p>
+
 <h2>Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" width="45" height="45"/>
