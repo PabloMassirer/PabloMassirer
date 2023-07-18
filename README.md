@@ -27,7 +27,7 @@ currentily_learning: ["Python", "SQL", "Mathematics", "GCP"]
 hobbies: ["Volunteer Projects", "Movies and Tv Shows", "Gaming", "MTGA"] 
 ```
 
-<h2 align="center">Reach Me</h2>
+<h2 align="center">To Reach Me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/pablomassirer/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/></a>    
 </p>
