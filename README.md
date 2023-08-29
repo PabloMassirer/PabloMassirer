@@ -23,7 +23,7 @@ technical_background:
 "Programming Professor"
 ]
 currentily_learning: ["Python", "SQL", "Mathematics", "GCP"]
-2023 Goals: ["Land a Job as a Data Engineer", "Perfect my knowledge regarding DE basics (Python, SQL, GCP, Spark)"
+2023 Goals: ["Land a Job as a Data Engineer", "Perfect my knowledge regarding DE (Python, SQL, GCP, Spark)"
 hobbies: ["Volunteer Projects", "Movies and Tv Shows", "Gaming", "MTGA"] 
 ```
 
