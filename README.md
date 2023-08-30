@@ -7,7 +7,7 @@ education:
 "Mostly Self-Taught Developer",
 "Data Science Associate's Degree - In Progress",
 ]
-company: Looking for one
+company: DataLakers
 fields_of_interest:
 [
 "Data Engineering",
