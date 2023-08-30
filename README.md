@@ -5,7 +5,7 @@ current_occupation: Data Science student
 education:
 [
 "Mostly Self-Taught Developer",
-"Data Science Associate's Degree - In Progress",
+"Data Science Degree - In Progress",
 ]
 company: DataLakers
 fields_of_interest:
