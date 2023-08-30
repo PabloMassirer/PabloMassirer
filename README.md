@@ -18,7 +18,7 @@ fields_of_interest:
 ]
 technical_background:
 [
-"Data Engineer Trainee",
+"Data Engineer",
 "Software Developer",
 "Programming Professor"
 ]
